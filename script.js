@@ -45,7 +45,7 @@ textTanya.innerHTML = 'Самая красивая нивета на свете'
 classic2.innerHTML = 'Платье не нашлось:('
 
 
-ring.setAttribute('src', '/img/ring.png');
+ring.setAttribute('src', 'img/ring.png');
 ring.setAttribute('class', 'ring');
 more.setAttribute('class', 'plata');
 menDream.setAttribute("class", "plata");
