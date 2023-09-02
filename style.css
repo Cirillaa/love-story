@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Martel+Sans:wght@400;600&family=Poppins:wght@300&family=Raleway&display=swap');
+
+.wrapper{
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+}
+.background {
+    background: url('/img/fon106.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.text {
+    width: 50%;
+    height: 100%;
+    margin: 40% auto 20%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 1em 1.5em;
+    box-shadow: 4px 4px 35px 17px rgba(34, 60, 80, 0.72);
+    font-family: "Raleway";
+    font-size: 1.5em;
+}
+.crystal {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+body {
+    margin: 0;
+}
+.crystals {
+    display: flex;
+    background-color: rgb(66, 161, 196);
+    width: fit-content;
+    padding: 1em 2em;
+    border-radius: 30px;
+    margin-right: 10px;
+    font-family: 'Raleway';
+    font-weight: bold;
+    color: white;
+    gap: 10px;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+.icon {
+    width: 25px
+}
+
+.active {
+    background: url('/img/Untitled-3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 80vh;
+    
+
+}
+.action {
+    display: flex;
+    justify-content:space-between;
+    align-content: flex-end;
+
+}
+.personText {
+    margin-left: auto;
+
+}
+
+.beerMagnat {
+        background: url(/img/Untitled-1.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 45%;
+            height: 80vh;
+}
+.coolGuy {
+    background: url(/img/Untitled-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 80vh;
+}
+.molodoy {
+    background: url(/img/molodoy.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 80vh;
+}
+.hide {
+    display: none;
+}
+.music {
+    position: absolute;
+}
+.newBack {
+    background: url('/img/newBack.jpg');
+    background-size: 100%;
+}
+.ring {
+    height: 30vh;
+}
+
+.plata {
+    display: flex;
+    justify-content: space-between;
+}
+.besedkaBack {
+    background: url('/img/besedka.jpg');
+}
+.moreBack {
+    background: url('/img/arka.jpg');
+    background-size:cover;
+}
+
+li {
+    list-style: none;
+    padding: 20px 0;
+}
+
+.dream {
+    background: url('/img/dream.png');
+}
+
+.plus {
+    width: 60px;
+}
+.plus-wrapper {
+    padding: 0 10px;
+}
+.dreamTanya {
+    background: url('/img/wedding.png');
+}
+.final {
+    background: url('/img/final2.jpg');
+    background-size:contain;
+    width: 65%;
+}
