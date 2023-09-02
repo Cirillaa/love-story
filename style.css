@@ -6,7 +6,7 @@
     margin: 0 auto;
 }
 .background {
-    background: url('/img/fon106.jpg');
+    background: url('img/fon106.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -56,7 +56,7 @@ p {
 }
 
 .active {
-    background: url('/img/Untitled-3.png');
+    background: url('img/Untitled-3.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 50%;
@@ -76,21 +76,21 @@ p {
 }
 
 .beerMagnat {
-        background: url(/img/Untitled-1.png);
+        background: url('img/Untitled-1.png');
             background-size: cover;
             background-repeat: no-repeat;
             width: 45%;
             height: 80vh;
 }
 .coolGuy {
-    background: url(/img/Untitled-2.png);
+    background: url('img/Untitled-2.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 50%;
     height: 80vh;
 }
 .molodoy {
-    background: url(/img/molodoy.png);
+    background: url('img/molodoy.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 50%;
@@ -103,7 +103,7 @@ p {
     position: absolute;
 }
 .newBack {
-    background: url('/img/newBack.jpg');
+    background: url('img/newBack.jpg');
     background-size: 100%;
 }
 .ring {
@@ -115,10 +115,10 @@ p {
     justify-content: space-between;
 }
 .besedkaBack {
-    background: url('/img/besedka.jpg');
+    background: url('img/besedka.jpg');
 }
 .moreBack {
-    background: url('/img/arka.jpg');
+    background: url('img/arka.jpg');
     background-size:cover;
 }
 
@@ -128,7 +128,7 @@ li {
 }
 
 .dream {
-    background: url('/img/dream.png');
+    background: url('img/dream.png');
 }
 
 .plus {
@@ -138,10 +138,10 @@ li {
     padding: 0 10px;
 }
 .dreamTanya {
-    background: url('/img/wedding.png');
+    background: url('img/wedding.png');
 }
 .final {
-    background: url('/img/final2.jpg');
+    background: url('img/final2.jpg');
     background-size:contain;
     width: 65%;
 }
